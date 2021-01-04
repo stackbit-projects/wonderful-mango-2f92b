@@ -3,7 +3,7 @@ title: Home
 sections:
   - section_id: hero
     type: section_hero
-    image: images/1.jpg
+    image: images/feature2.png
     image_alt: App preview
     title: Zacznij uczyć się o Informatyce już dziś!
     content: >-
