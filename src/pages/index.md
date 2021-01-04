@@ -7,8 +7,8 @@ sections:
     image_alt: App preview
     title: Zacznij uczyć się o Informatyce już dziś!
     content: >-
-      > * Azimuth is the perfect theme for developers, designers and
-      entrepreneurs who need a sleek, modern SaaS site. 
+      Azimuth is the perfect theme for developers, designers and entrepreneurs
+      who need a sleek, modern SaaS site. 
     actions:
       - label: Learn More
         url: /features
